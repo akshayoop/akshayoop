@@ -4,8 +4,8 @@ class college {
 }
 
 class student extends college {
-    String name = "praneeth";
-    int roll = 517;
+    String name = "akshay";
+    int roll = 546;
 }
 
 class SimpleInherit {
